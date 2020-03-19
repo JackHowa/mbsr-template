@@ -1,0 +1,23 @@
+{
+  "name": "insight-center",
+  "version": "1.0.0",
+  "description": "The application for practicing the mbsr curriculum and measuring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackHowa/mbsr-template.git"
+  },
+  "keywords": [
+    "mbsr",
+    "mindfulness"
+  ],
+  "author": "Jack Howard <jackhowaa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JackHowa/mbsr-template/issues"
+  },
+  "homepage": "https://github.com/JackHowa/mbsr-template#readme"
+}
