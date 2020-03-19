@@ -1,7 +1,13 @@
 ---
 layout: layout.liquid
 pageTitle: Readings
+description: List of readings for mindfulness
 ---
+<ul>
 {% for reading in collections.readings %}
-    <h2><a href="{{ reading.url }}">{{ reading.data.pageTitle }}</a></h2>
-{% endfor %}
+    <li>
+        <h2><a href="{{ reading.url }}">{{ reading.data.pageTitle }}</a></h2>
+        <p>Week {{ reading.data.weekNumber }}</p>
+    {% endfor %}
+    </li>
+</ul>

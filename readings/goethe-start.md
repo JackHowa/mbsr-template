@@ -1,5 +1,8 @@
 ---
 pageTitle: Begin It
+description: Goethe's couplet's meant to inspire. All about beginnings.
+weekNumber: 1
+
 ---
 
 Until one is committed there is always hesitancy, the chance to draw back, always ineffectiveness.
