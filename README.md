@@ -1,6 +1,21 @@
 # MBSR Template
 This is for people who are signed up for Mindfullness-based Stress Reduction curriculum. The goal is for this to be a calm, informed and trustworthy tool to help people practice mindfulness. 
 
+# Roadmap
+
+## MVP 
+
+- [ ] List of all readings available
+  - [ ] Readings Split By Week
+  - [ ] Readings styled in calm and readable way
+  - [ ] Minimal typos and formatting issues
+- [ ] All audio available published
+  - [ ] Upload to netlify large files (?)
+  - [ ] Split up links to large files by week 
+- [ ] Day breakdowns 
+  - [ ] Get current day
+  - [ ] Show readings for that week there (random perhaps?)
+
 # Features
 
 - [ ] Dark mode to reduce eye strain 
