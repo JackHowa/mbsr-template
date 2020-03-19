@@ -1,6 +1,12 @@
 # MBSR Template
 This is for people who are signed up for Mindfullness-based Stress Reduction curriculum. The goal is for this to be a calm, informed and trustworthy tool to help people practice mindfulness. 
 
+# Status 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05801d79-90c8-4122-ab81-9325167f753f/deploy-status)](https://app.netlify.com/sites/mbsr-template/deploys)
+
+[![Lighthouse score: 100/100](https://lighthouse-badge.appspot.com/?score=100)](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fmbsr-template.netlify.com%2F)
+
 # Roadmap
 
 ## MVP 
