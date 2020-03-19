@@ -1,0 +1,7 @@
+---
+layout: layout.liquid
+pageTitle: Readings
+---
+{% for reading in collections.readings %}
+    <h2><a href="{{ reading.url }}">{{ reading.data.pageTitle }}</a></h2>
+{% endfor %}
