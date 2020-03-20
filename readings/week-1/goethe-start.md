@@ -1,6 +1,9 @@
 ---
 pageTitle: Begin It
 description: Goethe's couplet's meant to inspire. All about beginnings.
+attribution: Goethe
+
+# could be week 0 ...
 weekNumber: 1
 
 ---
@@ -18,5 +21,3 @@ A whole stream of events issues from the decision, raising to one's favor all ma
 Whatever you can do or dream you can, begin it.
 
 Boldness has genius, power and magic in it.
-
-Goethe
