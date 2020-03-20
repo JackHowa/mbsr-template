@@ -18,9 +18,11 @@ This is for people who are signed up for Mindfullness-based Stress Reduction cur
 - [ ] All audio available published
   - [ ] Upload to netlify large files (?)
   - [ ] Split up links to large files by week 
-- [ ] Day breakdowns 
-  - [ ] Get current day
-  - [ ] Show readings for that week there (random perhaps?)
+- [ ] Week breakdowns
+
+# Design
+
+- [UI and colors via Figma](https://www.figma.com/file/2y476nV5FdF8NI4QdEa0Ns/mbsr-2?node-id=1%3A127)
 
 # Features
 
