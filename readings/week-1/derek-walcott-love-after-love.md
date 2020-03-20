@@ -3,6 +3,8 @@ pageTitle: Love After Love
 weekNumber: 1
 description: A poem from Derek Walcott from Collected Poems about enjoying life.
 attribution: Derek Walcott from Collected Poems 1948-1984
+# todo: add a double paragraph 
+# have tried double space, / and two spaces after a line
 ---
 
 The time will come 
@@ -12,6 +14,7 @@ when, with elation,
 you will greet yourself arriving 
 
 at your own door, in your own mirror, 
+
 and each will smile at the other's welcome
 
 
